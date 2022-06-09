@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    /* margin-bottom: 200px; */
+    /* background-color:#2E4057; */
+    /* background-color: aliceblue; */
+    /* background:black; */
+    height:100vh;
+}
+ .navbar-item{
+    font-family: sans-serif;
+    font-size:17px;
+    font-weight:lighter;
+
+}
+.log_in{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+	box-shadow: 0 4px 2px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+	padding-bottom: 8x;
+    background-color: transparent;
+   
+}
+.waver{
+    color:#0081CF;
+    font-family: 'Poppins', sans-serif;
+}
+.seller-account{
+    background-color: #296073;
+    font-family: 'Poppins', sans-serif;
+}
+button{
+    margin-top: 30px;
+}
+.columns{
+    position: relative;
+    top:100px;
+}
+.box{
+    /* border:1px solid red transparent; */
+    border:2px solid red transparent;
+    padding: 10px 12px;
+    box-shadow: 0 4px 8px 6px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    /* margin: auto; */
+    /* width: 6010px; */
+}
+.boxer{
+    height: 110px;
+    position: relative;
+    top: 300px;
+}
+
+
+
+
+
